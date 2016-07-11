@@ -1,0 +1,60 @@
+body {
+    padding-top: 70px;
+}
+
+.faceshot {
+    background-color: #eee;
+}
+
+.top {
+    font-family: 'Lato', sans-serif;
+    font-size: 
+}
+
+#home > h1, #aboutMe > h2, #futureProjects > h2, #books > h2 {
+    font-family: 'Playfair display', serif, bold;
+    font-size: 104;
+    
+}
+
+.faceshot {
+    font-family: 'Lato', sans-serif;
+    font-size: 10;
+    border: inherit;
+}
+
+.faceshot-caption > h4 {
+    font-family: 'Playfair display', serif;
+    font-size: 8
+}
+
+#infoButton {
+    
+    background-color: black;
+    color: lightgray;
+    font-size: 20px;
+    margin-top: 6px;
+    text-align: inherit;
+    
+    
+}
+
+.projects {
+    padding-bottom: 20px;
+}
+
+#cpyle {
+    text-align: left;
+    padding-right: 15px;
+        
+}
+
+footer {
+    font-family: 'Lato', sans-serif;
+    font-size: 10;
+    border: inherit;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 75px;
+    
+}
